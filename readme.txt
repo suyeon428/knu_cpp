@@ -8,3 +8,7 @@ this is second version
 good morning
 >>>>>>> 25c5360 (1st version)
 
+2nd version
+---------------
+modified
+
