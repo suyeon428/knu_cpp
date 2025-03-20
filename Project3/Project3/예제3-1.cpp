@@ -39,5 +39,5 @@ int main() {
 	donut_two.outerRadius = 3;
 	double innerarea = donut_two.inArea();
 	double outterarea = donut_two.outArea();
-	cout << "donut 내부 원의 면적은 " << innerarea << "\n외부 원의 면적은 " << outterarea << endl;
+	cout << "donut 내부 원의 면적은 " << outterarea - innerarea << endl;
 }
